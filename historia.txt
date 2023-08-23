@@ -1,0 +1,5 @@
+Este archivo es de práctica para la primera clase en que Freddy muestra como crear 
+mi primer repositorio de Git.
+
+Mi nombre es Juan Camilo
+Tengo 22 años
